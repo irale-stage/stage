@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/jgrapht/alg/util/|org/jgrapht/alg/|org/jgrapht/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/lvlarvin/Téléchargements/JavaFF2/lib/jgrapht-0.8.2/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

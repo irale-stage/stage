@@ -1,0 +1,9 @@
+; Time 0.04
+; ParsingTime    0.00
+; MakeSpan 2
+0: (R4 C_4 C_3 C_8 C_9) [1]
+0: (R2 C_3 C_5 FLOOR C_8) [1]
+0: (R1 C_7 C_6 FLOOR) [1]
+1: (R2 C_1 C_4 FLOOR C_8) [1]
+1: (R4 C_7 C_1 C_8 C_8) [1]
+1: (R2 C_6 C_3 FLOOR C_8) [1]
